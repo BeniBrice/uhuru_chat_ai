@@ -1,0 +1,15 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/ads-creator/page": "app/ads-creator/page.js",
+  "/code-generator/page": "app/code-generator/page.js",
+  "/chatbot/page": "app/chatbot/page.js",
+  "/content-analyzer/page": "app/content-analyzer/page.js",
+  "/cybersecurity/page": "app/cybersecurity/page.js",
+  "/image-generator/page": "app/image-generator/page.js",
+  "/music-creator/page": "app/music-creator/page.js",
+  "/content-creator/page": "app/content-creator/page.js",
+  "/nlp-tool/page": "app/nlp-tool/page.js",
+  "/text-generator/page": "app/text-generator/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/page": "app/page.js"
+}
